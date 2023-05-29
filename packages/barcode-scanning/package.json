@@ -1,6 +1,6 @@
 {
-  "name": "@capacitor-mlkit/barcode-scanning",
-  "version": "0.0.3",
+  "name": "@ivakm/capacitor-mlkit",
+  "version": "1.0.1",
   "description": "Capacitor plugin for ML Kit Barcode scanning.",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
@@ -11,7 +11,7 @@
     "android/build.gradle",
     "dist/",
     "ios/Plugin/",
-    "CapacitorMlkitBarcodeScanning.podspec"
+    "IvakmCapacitorMlkit.podspec"
   ],
   "author": "Robin Genz <mail@robingenz.dev>",
   "license": "Apache-2.0",
